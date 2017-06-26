@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<openerp>
+    <data>
+        
+        <menuitem id="mrp_tetz_v1.id_tetz_pdo" name="PDO"  sequence="81"
+				groups="mrp_tetz_v1.tetz_nacb,mrp_tetz_v1.tetz_user,mrp_tetz_v1.tetz_manager"/>
+
+    
+        <menuitem id="mrp_tetz_v1.cat_id_tetz_pdo" name="PDO MENU"  sequence="10"
+                parent="mrp_tetz_v1.id_tetz_pdo"/>
+
+    
+        <menuitem id="mrp_tetz_v1.menu_act_mrp_tetz_pdo" name="PDO action"  sequence="10"
+                parent="mrp_tetz_v1.cat_id_tetz_pdo"
+                action="mrp_tetz_v1.act_mrp_tetz_pdo"/>
+
+    
+    </data>
+</openerp>

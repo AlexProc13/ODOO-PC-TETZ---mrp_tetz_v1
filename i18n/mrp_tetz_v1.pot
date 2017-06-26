@@ -1,0 +1,265 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* mrp_tetz_v1
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0-20150423\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-27 22:52+0000\n"
+"PO-Revision-Date: 2016-03-27 22:52+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,col1:0
+msgid "Col1"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,col2:0
+msgid "Col2"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:mrp_product:mrp_tetz_v1.id_mrp_tetz_pdo_tree_tree
+#: view:mrp_tetz_pdo:mrp_tetz_v1.id_mrp_tetz_pdo_form
+msgid "Components"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:mrp_tetz_pdo:mrp_tetz_v1.id_mrp_tetz_pdo_form
+msgid "Confirm"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: selection:mrp_tetz_pdo,state:0
+msgid "Confirmed"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,create_uid:0
+#: field:mrp_tetz_pdo,create_uid:0
+msgid "Created by"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,create_date:0
+#: field:mrp_tetz_pdo,create_date:0
+msgid "Created on"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_tetz_pdo,dobav_ids:0
+msgid "Dobav ids"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:mrp_tetz_pdo:mrp_tetz_v1.view_search
+#: selection:mrp_tetz_pdo,state:0
+msgid "Done"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:mrp_tetz_pdo:mrp_tetz_v1.view_search
+#: selection:mrp_tetz_pdo,state:0
+msgid "Draft"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,id:0
+#: field:mrp_tetz_pdo,id:0
+msgid "ID"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:res.users:mrp_tetz_v1.view_search_part
+#: field:res.users,ingener:0
+msgid "Ingener"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:res.users:mrp_tetz_v1.view_search_part
+msgid "Ingenera"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:mrp_tetz_pdo:mrp_tetz_v1.id_mrp_tetz_pdo_form
+msgid "Job change №"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,write_uid:0
+#: field:mrp_tetz_pdo,write_uid:0
+msgid "Last Updated by"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,write_date:0
+#: field:mrp_tetz_pdo,write_date:0
+msgid "Last Updated on"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: model:res.groups,name:mrp_tetz_v1.tetz_manager
+msgid "Manager"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:mrp_tetz_pdo:mrp_tetz_v1.id_mrp_tetz_pdo_form
+msgid "Mark as done"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,master_id:0
+msgid "Master"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:mrp_tetz_pdo:mrp_tetz_v1.id_mrp_tetz_pdo_form
+msgid "Master PDO"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_tetz_pdo,master_pdo_id:0
+msgid "Master pdo id"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:res.users:mrp_tetz_v1.view_search_part
+#: field:res.users,master:0
+msgid "Mastera"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:res.users:mrp_tetz_v1.view_search_part
+msgid "Masteraa"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: selection:mrp_tetz_pdo,work_centr:0
+msgid "Mex work"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: model:res.groups,name:mrp_tetz_v1.tetz_nacb
+msgid "Nach"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_tetz_pdo,number:0
+msgid "Number"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,otk:0
+msgid "OTK"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,opera:0
+msgid "Opera"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: model:ir.module.category,name:mrp_tetz_v1.module_category_mrp_tetz_v1
+#: model:ir.ui.menu,name:mrp_tetz_v1.id_tetz_pdo
+#: view:mrp_tetz_pdo:mrp_tetz_v1.id_mrp_tetz_pdo_form
+msgid "PDO"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: model:ir.ui.menu,name:mrp_tetz_v1.cat_id_tetz_pdo
+msgid "PDO MENU"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: model:ir.ui.menu,name:mrp_tetz_v1.menu_act_mrp_tetz_pdo
+msgid "PDO action"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_tetz_pdo,position:0
+msgid "Position"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,production_id:0
+msgid "Production"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:mrp_tetz_pdo:mrp_tetz_v1.id_mrp_tetz_pdo_form
+msgid "Reset to draft"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,sqt_id:0
+msgid "SQT"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_tetz_pdo,start_data:0
+msgid "Start data"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_tetz_pdo,state:0
+msgid "State"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,tab_number:0
+#: view:mrp_tetz_pdo:mrp_tetz_v1.id_mrp_tetz_pdo_tree
+msgid "Tabnumber"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_tetz_pdo,text:0
+msgid "Text"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: model:res.groups,name:mrp_tetz_v1.tetz_user
+msgid "User"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: model:ir.model,name:mrp_tetz_v1.model_res_users
+msgid "Users"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_product,work:0
+msgid "Work"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: field:mrp_tetz_pdo,work_centr:0
+msgid "Work centr"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: selection:mrp_tetz_pdo,work_centr:0
+msgid "Zag work"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: model:ir.actions.act_window,name:mrp_tetz_v1.act_mrp_tetz_pdo
+msgid "mrp_tetz_pdo"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:mrp_tetz_pdo:mrp_tetz_v1.view_search
+msgid "search_view"
+msgstr ""
+
+#. module: mrp_tetz_v1
+#: view:mrp_tetz_pdo:mrp_tetz_v1.id_mrp_tetz_pdo_form
+msgid "text"
+msgstr ""
+

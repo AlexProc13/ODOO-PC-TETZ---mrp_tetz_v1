@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<openerp>
+    <data>
+        
+        <record model="ir.actions.act_window" id="mrp_tetz_v1.act_mrp_tetz_pdo">
+            <field name="name">mrp_tetz_pdo</field>
+            <field name="res_model">mrp_tetz_pdo</field>
+            <field name="view_mode">tree,form</field>
+            <field name="view_type">form</field>
+            <field name="target">current</field>
+            
+        </record>
+
+    
+    </data>
+</openerp>

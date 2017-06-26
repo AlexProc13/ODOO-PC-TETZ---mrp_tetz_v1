@@ -1,0 +1,9 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_mrp_tetz_v1_mrp_tetz_pdo_mrp_tetz_v1.tetz_nacb,mrp_tetz_pdo mrp_tetz_v1_tetz_nacb,mrp_tetz_v1.model_mrp_tetz_pdo,mrp_tetz_v1.tetz_nacb,1,0,0,0
+
+access_mrp_tetz_v1_mrp_product_mrp_tetz_v1.tetz_nacb,mrp_product mrp_tetz_v1_tetz_nacb,mrp_tetz_v1.model_mrp_product,mrp_tetz_v1.tetz_nacb,1,0,0,0
+
+access_mrp_tetz_v1_mrp_tetz_pdo_mrp_tetz_v1.tetz_user,mrp_tetz_pdo mrp_tetz_v1_tetz_user,mrp_tetz_v1.model_mrp_tetz_pdo,mrp_tetz_v1.tetz_user,1,1,1,1
+
+access_mrp_tetz_v1_mrp_product_mrp_tetz_v1.tetz_user,mrp_product mrp_tetz_v1_tetz_user,mrp_tetz_v1.model_mrp_product,mrp_tetz_v1.tetz_user,1,1,1,1
+
